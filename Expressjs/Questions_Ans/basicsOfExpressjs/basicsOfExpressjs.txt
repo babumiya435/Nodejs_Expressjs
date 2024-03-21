@@ -1,0 +1,31 @@
+** What is Expressjs ? **
+
+Expressjs is one of the basic nodejs frameworks available to create web servers & APIs.
+It provides a robust set of features and middleware that simplify the process of handling HTTP requests, routing, middleware integration, and more. 
+Express.js is widely adopted in the Node.js ecosystem due to its simplicity, flexibility, and scalability.
+Express.js makes it easier to handle HTTP requests, define routes, and implement middleware, leveraging the capabilities of Node.js to create efficient and scalable server-side applications
+
+
+** In addition to expressjs, other competitors in the market include: ? **
+
+1.Koa.js: Developed by the same team behind Express.js, Koa.js is a lightweight and modern web framework designed to be more expressive and robust. 
+It uses ES6 generators for handling asynchronous operations.
+
+2.Hapi.js: Hapi.js is a rich framework for building applications and services. 
+It emphasizes configuration over code and provides built-in support for authentication, 
+input validation, caching, and more.
+
+3.Fastify: Fastify is a high-performance web framework focused on providing the best developer experience with the least overhead. 
+It boasts extremely fast HTTP routing and supports features like schema-based request validation and logging.
+
+4.NestJS: NestJS is a progressive Node.js framework for building efficient, reliable, and scalable server-side applications.
+It uses TypeScript and is heavily inspired by Angular, providing a modular and structured approach to building applications.
+
+5.Sails.js: Sails.js is a real-time MVC framework for Node.js inspired by Ruby on Rails. 
+It provides automatic RESTful API generation, WebSocket support, and a data-driven approach to building web applications.
+
+6.LoopBack: LoopBack is a highly extensible Node.js framework for building APIs and connecting them with backend data sources. 
+It provides tools for quickly creating models, accessing data, and exposing APIs.
+
+7.AdonisJS: AdonisJS is a full-featured MVC framework for Node.js that focuses on developer productivity. 
+It provides built-in support for features like ORM, authentication, and validation, making it easy to build robust web applications.
