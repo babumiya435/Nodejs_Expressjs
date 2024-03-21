@@ -1,5 +1,7 @@
 ** What is Expressjs ? **
 
+Express.js is a web application framework for Node.js
+
 Expressjs is one of the basic nodejs frameworks available to create web servers & APIs.
 It provides a robust set of features and middleware that simplify the process of handling HTTP requests, routing, middleware integration, and more. 
 Express.js is widely adopted in the Node.js ecosystem due to its simplicity, flexibility, and scalability.
@@ -29,3 +31,39 @@ It provides tools for quickly creating models, accessing data, and exposing APIs
 
 7.AdonisJS: AdonisJS is a full-featured MVC framework for Node.js that focuses on developer productivity. 
 It provides built-in support for features like ORM, authentication, and validation, making it easy to build robust web applications.
+
+** List of frameworks built on top of expressjs **
+
+Feathers: Build prototypes in minutes and production ready real-time apps in days.
+
+ItemsAPI: Search backend for web and mobile applications built on Express and Elasticsearch.
+
+KeystoneJS: Website and API Application Framework / CMS with an auto-generated React.js Admin UI.
+
+Poet: Lightweight Markdown Blog Engine with instant pagination, tag and category views.
+
+Kraken: Secure and scalable layer that extends Express by providing structure and convention.
+
+LoopBack: Highly-extensible, open-source Node.js framework for quickly creating dynamic end-to-end REST APIs.
+
+Sails: MVC framework for Node.js for building practical, production-ready apps.
+
+Hydra-Express: Hydra-Express is a light-weight library which facilitates building Node.js Microservices using ExpressJS.
+
+Blueprint: a SOLID framework for building APIs and backend services.
+
+Locomotive: Powerful MVC web framework for Node.js from the maker of Passport.js.
+
+graphql-yoga: Fully-featured, yet simple and lightweight GraphQL server.
+
+Express Gateway: Fully-featured and extensible API Gateway using Express as foundation.
+
+Dinoloop: Rest API Application Framework powered by typescript with dependency injection.
+
+Kites: Template-based Web Application Framework.
+
+FoalTS: Elegant and all-inclusive Node.Js web framework based on TypeScript.
+
+NestJs: A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8).
+
+Expressive Tea: A Small framework for building modulable, clean, fast and descriptive server-side applications with Typescript and Express out of the box.

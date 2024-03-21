@@ -1,0 +1,58 @@
+Step 1: Install Node.js
+
+First, you need to install Node.js on your system. You can download the installer from the official Node.js website: https://nodejs.org/
+(Both Node.js and npm (Node Package Manager) are installed )
+
+Step 2: Verify Installation
+
+node --version
+npm --version
+
+Step 3: Create a Node.js Project
+
+mkdir my-node-project
+cd my-node-project
+
+Step 4: Initialize npm
+
+npm init -y
+(npm: This is the Node Package Manager, a command-line utility used for managing Node.js packages and dependencies.
+
+init: This is a command within npm that initializes a new npm package in the current directory (package.json file). 
+It sets up a package.json file, which contains metadata about the project such as its name, version, description, dependencies, and other configuration options.
+
+-y: This is a shortcut for saying "yes" to all prompts during initialization. 
+It tells npm to use default values for all configuration options without asking the user to confirm each one individually. 
+This is useful for quickly setting up a new project with default settings.)
+
+Step 5: Install Express.js
+
+npm install express
+
+Step 6: Create a Simple Express Server
+
+const express = require('express');
+const app = express();
+const PORT = 3000;
+
+app.get('/', (req, res) => {
+  res.send('Hello, World!');
+});
+
+app.listen(PORT, () => {
+  console.log(`Server running at http://localhost:${PORT}`);
+});
+
+Step 7: Run the Server
+
+node app.js
+
+Step 8: Access the Server
+
+Open your web browser and navigate to http://localhost:3000. 
+You should see the message "Hello, World!" displayed in the browser.
+
+Step 9: Experiment and Learn
+
+Now that you have a basic Node.js project set up with Express, you can experiment with adding routes, middleware, and other features to build more complex applications.
+
