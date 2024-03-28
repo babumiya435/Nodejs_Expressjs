@@ -24,64 +24,64 @@ List of Basic Topics in Node JS :
 
 List of Intermediate Topics in Node JS :
 
-(1) Express.js: Building web applications using the Express framework.
+(12) Express.js: Building web applications using the Express framework.
 
-(2) Middleware: Writing and using middleware functions in Express.
+(13) Middleware: Writing and using middleware functions in Express.
 
-(3) Routing: Implementing RESTful APIs and routing in Express.
+(14) Routing: Implementing RESTful APIs and routing in Express.
 
-(4) Template Engines: Using template engines like EJS or Handlebars.
+(15) Template Engines: Using template engines like EJS or Handlebars.
 
-(5) Database Connectivity: Connecting to databases like MongoDB, MySQL, or PostgreSQL.
+(16) Database Connectivity: Connecting to databases like MongoDB, MySQL, or PostgreSQL.
 
-(6) ORM/ODM: Using libraries like Mongoose or Sequelize for object-relational mapping.
+(17) ORM/ODM: Using libraries like Mongoose or Sequelize for object-relational mapping.
 
-(7) Authentication and Authorization: Implementing user authentication and authorization.
+(18) Authentication and Authorization: Implementing user authentication and authorization.
 
-(8) WebSockets: Real-time communication using WebSockets (e.g., with Socket.io).
+(19) WebSockets: Real-time communication using WebSockets (e.g., with Socket.io).
 
-(9) GraphQL: Understanding and implementing GraphQL APIs.
+(20) GraphQL: Understanding and implementing GraphQL APIs.
 
-(10) Unit Testing: Writing and executing unit tests using frameworks like Mocha or Jest.
+(21) Unit Testing: Writing and executing unit tests using frameworks like Mocha or Jest.
 
-(11) REST API Design: Designing robust and scalable REST APIs.
+(22) REST API Design: Designing robust and scalable REST APIs.
 
-(12) Logging and Monitoring: Implementing logging and monitoring solutions.
+(23) Logging and Monitoring: Implementing logging and monitoring solutions.
 
-(13) Caching: Using caching mechanisms like Redis or Memcached.
+(24) Caching: Using caching mechanisms like Redis or Memcached.
 
-(14) Docker: Containerizing Node.js applications for easy deployment.
+(25) Docker: Containerizing Node.js applications for easy deployment.
 
-(15) Microservices Architecture: Building and deploying Node.js microservices.
+(26) Microservices Architecture: Building and deploying Node.js microservices.
 
-(16) Performance Optimization: Optimizing Node.js applications for speed and efficiency.
+(27) Performance Optimization: Optimizing Node.js applications for speed and efficiency.
 
 List of Advanced Topics in Node JS :
 
-(1) Cluster Module: Scaling Node.js applications across multiple CPU cores.
+(28) Cluster Module: Scaling Node.js applications across multiple CPU cores.
 
-(2) Worker Threads: Utilizing multiple threads for CPU-intensive tasks.
+(29) Worker Threads: Utilizing multiple threads for CPU-intensive tasks.
 
-(3) Security Best Practices: Implementing advanced security measures.
+(30) Security Best Practices: Implementing advanced security measures.
 
-(4) Load Balancing: Implementing load balancing strategies.
+(31) Load Balancing: Implementing load balancing strategies.
 
-(5) Serverless Architectures: Deploying Node.js applications on serverless platforms.
+(32) Serverless Architectures: Deploying Node.js applications on serverless platforms.
 
-(6) GraphQL Subscriptions: Real-time subscriptions with GraphQL.
+(33) GraphQL Subscriptions: Real-time subscriptions with GraphQL.
 
-(7) Distributed Tracing: Implementing distributed tracing for debugging and monitoring.
+(34) Distributed Tracing: Implementing distributed tracing for debugging and monitoring.
 
-(8) Machine Learning Integration: Integrating machine learning models with Node.js.
+(35) Machine Learning Integration: Integrating machine learning models with Node.js.
 
-(9) Blockchain Integration: Integrating blockchain technologies with Node.js applications.
+(36) Blockchain Integration: Integrating blockchain technologies with Node.js applications.
 
 List of Miscellaneous Topics in Node JS :
 
-(1) Code Organization: Structuring Node.js applications for scalability and maintainability.
+(37) Code Organization: Structuring Node.js applications for scalability and maintainability.
 
-(2) Documentation: Writing comprehensive documentation for Node.js projects.
+(38) Documentation: Writing comprehensive documentation for Node.js projects.
 
-(3) Continuous Integration/Continuous Deployment (CI/CD): Automating the build and deployment process.
+(39) Continuous Integration/Continuous Deployment (CI/CD): Automating the build and deployment process.
 
-(4) Community Involvement: Participating in the Node.js community, contributing to open-source projects, attending meetups/conferences.
+(40) Community Involvement: Participating in the Node.js community, contributing to open-source projects, attending meetups/conferences.
